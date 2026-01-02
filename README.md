@@ -43,6 +43,7 @@ o	Formulas (SUMIFS, AVERAGEIFS, IF, LOOKUPs)
 o	Pivot Tables & Pivot Charts
 o	Slicers for interactivity
 o	Dashboard layout & formatting
- 
+________________________________________
+Dashboard:<img width="940" height="480" alt="image" src="https://github.com/user-attachments/assets/9c5b508e-bfea-439e-8542-d8f2dff26fc0" />
 
 
